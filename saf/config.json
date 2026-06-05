@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "gaps": 10,
+        "master_ratio": 0.6,
+        "layout": "master-stack"
+    },
+    "hotkeys": {
+        "tile_now": "alt+shift+t",
+        "increase_master": "alt+l",
+        "decrease_master": "alt+h",
+        "exit_wm": "alt+shift+q"
+    }
+}

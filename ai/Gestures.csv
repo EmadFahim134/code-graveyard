@@ -1,0 +1,28 @@
+file_name,gesture_name,gesture_type,description,file_size_kb,folder_name
+Shuffle.jpg,Shuffle,Action,"Hands making shuffling motion",5.33,Quick access
+Camera.jpg,Camera,Action,"Hand gesture mimicking taking a photo",4.00,Quick access
+FlickrInfo.jpg,Flick Info,Swiping,"Informational swipe gesture",4.43,Quick access
+HorizontalScroll.jpg,Horizontal Scroll,Scrolling,"Horizontal scrolling motion",4.94,Quick access
+ThumbUp.jpg,Thumbs Up,Approval,"Raised thumb showing approval",3.87,Quick access
+ZoomIn2.jpg,Zoom In,Pinch,"Two fingers moving apart to zoom in",3.74,Quick access
+3xTag.jpg,Triple Tag,Tagging,"Triple-tagging gesture",3.67,Diagrams
+DoubleTag.jpg,Double Tag,Tagging,"Double-tagging gesture",4.32,Diagrams
+FlickRights.jpg,Flick Right,Swiping,"Fast rightward swipe motion",4.58,Diagrams
+HorizontalSpeed.jpg,Horizontal Speed,Scrolling,"High-speed horizontal gesture",7.51,Diagrams
+Speed.jpg,Speed,Action,"Quick hand movement",3.83,Diagrams
+TouchMHold.jpg,Touch & Hold,Touch,"Long press gesture",5.03,Diagrams
+ZoomOut2.jpg,Zoom Out,Pinch,"Two fingers pinching together to zoom out",5.97,Diagrams
+Burmpl.chj.jpg,Bump Left,Contact,"Fist bump to the left",4.59,New folder
+Drag.jpg,Drag,Action,"Dragging motion with finger",3.84,New folder
+FlickUp.jpg,Flick Up,Swiping,"Quick upward swipe motion",4.14,New folder
+Resale.jpg,Resale,Special,"Resale-related hand gesture",4.28,New folder
+Tap.jpg,Tap,Touchscreen,"Single tap gesture",3.15,New folder
+TouchMHold.jpg,Touch & Hold,Touch,"Long press gesture",4.24,New folder
+ZoomOut2.jpg,Zoom Out,Pinch,"Two fingers pinching together to zoom out",3.90,New folder
+Burmplights.jpg,Bump Right,Contact,"Fist bump to the right",4.52,Burn
+FlickDown.jpg,Flick Down,Swiping,"Quick downward swipe motion",4.44,Burn
+HorizontalPinch.jpg,Horizontal Pinch,Pinch,"Horizontal pinching motion",7.61,Burn
+Shake.jpg,Shake,Action,"Shaking hand gesture",4.21,Burn
+ThumbDown.jpg,Thumbs Down,Disapproval,"Thumb pointing down showing disapproval",3.64,Burn
+VericonScroll.jpg,Vertical Scroll,Scrolling,"Vertical scrolling motion",4.71,Burn
+ZoomOut2.jpg,Zoom Out (Extended),Pinch,"Extended zoom out gesture",8.48,Burn
