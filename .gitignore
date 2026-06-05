@@ -27,3 +27,17 @@ Desktop.ini
 
 # JetBrains
 .idea/
+
+# Heavy Files
+
+build/
+dist/
+*.exe
+*.dll
+*.mp4
+*.mpg
+*.zip
+*.pyc
+*.pkg
+node_modules/
+flutter/.dart_tool/
